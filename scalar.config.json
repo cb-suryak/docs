@@ -1,0 +1,8 @@
+ {
+  "references": [
+    {
+      "name": "API Reference",
+      "path": "openapi_tax_versions.yaml"
+    }
+  ]
+}
