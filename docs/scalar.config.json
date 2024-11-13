@@ -1,0 +1,19 @@
+{
+  "guides": [
+    {
+      "name": "API Documentation",
+      "sidebar": [
+        {
+          "path": "docs/introduction.md",
+          "type": "page"
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "API Reference",
+      "path": "openapi_tax_versions.yaml"
+    }
+  ]
+}
