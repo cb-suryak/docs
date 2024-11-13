@@ -1,4 +1,15 @@
- {
+{
+  "guides": [
+    {
+      "name": "API Documentation",
+      "sidebar": [
+        {
+          "path": "docs/introduction.md",
+          "type": "page"
+        }
+      ]
+    }
+  ],
   "references": [
     {
       "name": "API Reference",
