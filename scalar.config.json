@@ -1,4 +1,5 @@
 {
+  "subdomain": "my-awesome-documentation",
   "guides": [
     {
       "name": "API Documentation",
